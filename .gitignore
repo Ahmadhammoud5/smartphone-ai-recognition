@@ -1,0 +1,15 @@
+data/ 
+models/ 
+.ipynb_checkpoints/ 
+__pycache__/ 
+*.pt 
+*.pkl 
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.gif
+*.bmp
+*.h5
+*.yaml
+*.csv
